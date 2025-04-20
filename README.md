@@ -1,6 +1,8 @@
 # EPA - Explorer Permission Assistant.
 EPA is short for Explorer Permission Assistant.
 
+Please back up important folders/files separately. The person who runs this program assumes full responsibility.
+
 Copyright (c) 2025 Sally Skyehart (SS)
 
 This code is licensed under the Creative Commons BY-NC-ND 4.0 License.
