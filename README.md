@@ -1,4 +1,4 @@
-# EPA
+# Explorer Permission Assistant.
 EPA is short for Explorer Permission Assistant.
 
 Copyright (c) 2025 Sally Skyehart (SS)
